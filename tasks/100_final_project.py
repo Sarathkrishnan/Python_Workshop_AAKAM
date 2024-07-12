@@ -14,3 +14,8 @@ while(True):
 
     # LOGIC
     # if both of then guess same choice not mark
+
+    input
+    outunit
+    procesing
+    storage
