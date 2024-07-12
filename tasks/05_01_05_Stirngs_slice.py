@@ -1,0 +1,4 @@
+"""
+Consider the given string
+
+"""
