@@ -10,4 +10,3 @@ Answer the following questions
 4. Get the characters after the index 7.
 5. Get the Characters from index 7 to index 10.
 """
-

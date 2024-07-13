@@ -1,4 +1,4 @@
-usernames  = "akshara"
+usernames = "akshara"
 password = "coolpython098"
 
 user_name = input("Enter you user name:")

@@ -1,4 +1,4 @@
-'''
+"""
     Here give the some of deatails in the biodata of student. Find the data type of each  variable using type() function
 
     Biodata
@@ -10,6 +10,6 @@
     CGPA < 8.54
     Skills = "Programming in python"
 
-'''
-name="Ravi"
+"""
+name = "Ravi"
 print(type(name))

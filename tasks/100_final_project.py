@@ -1,11 +1,11 @@
 import random
 
-game_choices = ['STONE','PAPER','SCISSOR']
+game_choices = ["STONE", "PAPER", "SCISSOR"]
 
 computer_score = 0
 user_score = 0
 
-while(True):
+while True:
     computer_choice = random.choice(game_choices)
     user_choice = input("Enter you choice ('STONE','PAPER','SCISSOR')")
 

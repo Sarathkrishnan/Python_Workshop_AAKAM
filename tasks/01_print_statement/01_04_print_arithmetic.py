@@ -6,4 +6,5 @@ Evaluate the result of expression using print()
 OUTPUT
 123.66666666666667
 """
+
 print()

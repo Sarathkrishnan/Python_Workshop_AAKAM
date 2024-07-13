@@ -14,6 +14,3 @@ print("* ")
 print("* ")
 print("* ")
 print("* ")
-
-
-
