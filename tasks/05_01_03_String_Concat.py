@@ -12,7 +12,7 @@ print()
 
 
 '''
-   Concatunate the strings
+   Concatenate the strings
 
    a = " she is"
    b = " beautiful"
